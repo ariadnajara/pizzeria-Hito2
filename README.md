@@ -1,16 +1,52 @@
-# React + Vite
+# 🍕 Pizzería Mamma Mía - Hito 2
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Proyecto desarrollado con React + Vite como parte del desafío de Desafío Latam.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Descripción
 
-## React Compiler
+Crea un componente Register que contenga un formulario con los siguientes campos:
+● Email
+● Contraseña
+● Confirmar contraseña
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tecnologías utilizadas
+
+* React
+* Vite
+* JavaScript
+* Bootstrap
+
+---
+
+
+## 🌐 Vista previa
+
+El proyecto se ejecuta en:
+
+```
+http://localhost:5173/
+```
+
+---
+
+## 📸 Captura del proyecto
+
+<img width="870" height="670" alt="image" src="https://github.com/user-attachments/assets/a22a1a8e-7dd6-4388-be88-7137f24dc922" />
+
+
+---
+
+## 👩‍💻 Autora 
+
+Ariadna Jara - Desafio Latam 2026
+
+
+---
+
+
+---
